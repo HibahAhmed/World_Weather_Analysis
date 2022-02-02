@@ -34,7 +34,7 @@ weather_database.ipynb
 
 After determining the weather in all the locations, the client was able to determine possible destinations and hotels for their trip as shown below:
 
-PUT PIC HERE
+![WeatherPy_vacation_map](https://user-images.githubusercontent.com/95547517/152117748-41d767e8-e877-451b-8c55-6106b15e96cb.png)
 
 ## Vacation Itinerary
 
