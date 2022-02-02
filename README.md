@@ -40,9 +40,11 @@ After determining the weather in all the locations, the client was able to deter
 
 The client chose to travel in Pakistan and a set of routes for that to follow was shown with the help of API Directions as shown below:
 
-![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/95547517/152117455-2702e13a-8ad3-41b9-b9d2-14b859da7abd.png)
+![WeatherPy_travel_map](https://user-images.githubusercontent.com/95547517/152120669-9c8b16ed-153f-46eb-8ccc-0cf3d4a0e3b4.png)
 
 
+
+![WeatherPy_travel_map_markers png](https://user-images.githubusercontent.com/95547517/152120688-97facd0c-f220-4d60-a645-03c59cb87c6e.PNG)
 
 
 
