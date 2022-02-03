@@ -1,6 +1,6 @@
 # World_Weather_Analysis
 
-## Overview of Project
+## Overview 
 
 Clients work with PlanMyTrip to analyze clients prefered weather and ideal hotels. Weather conditions as well as convenient hotel locations can majorly impact a trip. This project worked with the weather data as well as other necessities like directions and nearby hotels and planned a well out organized trip. 
 
