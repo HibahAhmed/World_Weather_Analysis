@@ -6,17 +6,17 @@ Clients work with PlanMyTrip to analyze clients prefered weather and ideal hotel
 
 ## Resources
 
-Software: Python 3.7.6
-Pandas
-Matplotlip
-CitiPy
-Requests
-API
-JSON 
-Jupyter Notebook
-Vacation_Itinerary.ipynb
-Vacation_Search.ipynb
-weather_database.ipynb
+- Software: Python 3.7.6
+- Pandas
+- Matplotlip
+- CitiPy
+- Requests
+- API
+- JSON 
+- Jupyter Notebook
+- Vacation_Itinerary.ipynb
+- Vacation_Search.ipynb
+- weather_database.ipynb
 
 ## Weather Database
 
